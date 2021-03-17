@@ -1,4 +1,4 @@
-I created this project as a way for me to learn how github works and also
+I created this project as a way for me to learn how github works and also to
 start learning about/using some different web-development technologies so I
 can progress in becoming a more capable programmer. As a programmer, I started
 out with learning some C++ years ago in CS classes at school, which I haven't
